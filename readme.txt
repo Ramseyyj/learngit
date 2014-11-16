@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git is easy to learn.
 Creating a new branch is quick and simple.
 Add merge.
+Working on the branch dev and finished.
